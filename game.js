@@ -3,6 +3,7 @@ let compScore = 0;
 let playerSelection;
 let computerSelection;
 
+
 const player = document.querySelector('#playerScore');
 player.textContent = `Player Score: ${playerScore}`;
 
