@@ -8,7 +8,7 @@ const player = document.querySelector('#playerScore');
 player.textContent = `Player Score: ${playerScore}`;
 
 const computer = document.querySelector('#compScore');
-player.textContent = `Computer Score: ${compScore}`;
+computer.textContent = `Computer Score: ${compScore}`;
 
 const textOutput = document.querySelector('.output');
 textOutput.textContent = "";
